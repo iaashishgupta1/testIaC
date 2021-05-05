@@ -78,6 +78,10 @@
         "acl": "public-write",
         "bucket": "RW_bucket"
       },
+      "exampless159": {
+        "acl": "public-write",
+        "bucket": "RW_bucket"
+      },
       "avidcloudtrailbucket": {
         "bucket": "${local.s3bucketname}",
         "force_destroy": true,
